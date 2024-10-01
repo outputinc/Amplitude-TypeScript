@@ -39,3 +39,5 @@ Check our guidelines for repo contributions on [CONTRIBUTING.md](https://github.
 ## Documentation
 
 See our [Typescript SDK](https://amplitude.github.io/Amplitude-TypeScript/) Reference for a list and description of all available SDK methods.
+
+Last updated: 2024-10-01
